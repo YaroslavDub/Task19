@@ -27,3 +27,16 @@ Console.Write (array[z] + ", ");
 z += 1;
 }
 Console.WriteLine(array[i-1]);
+// Console.WriteLine("Введеите пятизначное число");
+// int n = Convert.ToInt32(Console.ReadLine());
+// if (n > 10000 && n < 100000) {
+//     if (n % 10 == n / 10000 && n % 100 / 10 == n % 1000 % 10){
+//     }
+//     Console.WriteLine ("Число является палиндромом");
+// }
+// else if (n < 10000 || n > 100000) {
+//     Console.WriteLine ("Это не пятизначное число");
+// }
+// else {
+//     Console.WriteLine ("Число не является палиндромом");
+// }
